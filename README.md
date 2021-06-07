@@ -1,4 +1,4 @@
-# Myrorr
+# Myrror
 
 Myrror is a software for smart mirrors, built in [ReactJS](https://reactjs.org/). It can be run in a browser window and currently supports Clock, Weather and Spotify widgets. Myrror currently shows widgets in Slovak language only.
 
